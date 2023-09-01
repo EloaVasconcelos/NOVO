@@ -128,3 +128,14 @@ adicionando novo arquivo
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/txtsenha1" />
+
+
+        <resources>
+    <string name="app_name">appteste</string>
+    <string name="txtlogin">  Faça seu Login</string>
+    <string name="txtnome">Insira seu nome</string>
+    <string name="txtemail">Insira seu email</string>
+    <string name="txtsenha1">Insira uma senha</string>
+    <string name="txtsenha2">Insira a senha novamente</string>
+    <string name="btnenviar">Enviar</string>
+</resources>
